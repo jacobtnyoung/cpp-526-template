@@ -850,7 +850,7 @@ This section introduces logical statements used to create custom groups from you
 
 ## Learning Objectives
 
-Once you have completed this section you will be able to 
+Once you have completed this section you will be able to: 
 * translate human language phrases to a computer language
 * create subsets of data 
 
