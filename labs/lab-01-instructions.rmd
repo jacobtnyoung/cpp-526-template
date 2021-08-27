@@ -124,7 +124,7 @@ Your solution should include a written response to the question, as well as the 
     
 #### 4. What proportion of parcels are tax exempt?
 
-> **sum()** plus **length()** functions withthe logical **tax.exempt** vector
+> **sum()** plus **length()** functions with the logical **tax.exempt** vector
 
 <br>
 
@@ -161,7 +161,8 @@ When you apply a **sum()** function to a logical vector, it will count all of th
 ```{r, eval=F}
 x <- c( TRUE, TRUE, FALSE, FALSE, FALSE )
 sum( x )                # number of TRUEs
-sum( x ) / length( x )  # proportion of TRUEs
+sum( x ) / length( x )  # 
+of TRUEs
 ```
 
 
